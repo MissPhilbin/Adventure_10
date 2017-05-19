@@ -1,7 +1,7 @@
 # Adventures In Raspberry Pi by Carrie Anne Philbin
-## Adventure 9 resources
+## Adventure 10 resources
 
-This repository contains code required for the Adventure 9 project in
+This repository contains code required for the Adventure 10 project in
 "Adventures in Raspberry Pi". Included code is:
 
 * vlc.py: Python bindings to libvlc, taken from <http://git.videolan.org/?p=vlc/bindings/python.git;a=tree;f=generated;b=HEAD>
